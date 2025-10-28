@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832804721699",
+    "project_id": "myeventapp-bdbb6",
+    "storage_bucket": "myeventapp-bdbb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832804721699:android:7fba27cbee679b2fa6cd96",
+        "android_client_info": {
+          "package_name": "com.priyanshu.eventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2O7wwokCxGkH8XxcDthczOVgbLAhyvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
